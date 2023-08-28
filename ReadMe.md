@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm a student of science computing. <br>I am studying in the fourth semester at the Anhanguera institution.<br><br>A lover of Technology and programming, ever in search of new knowledge<br>I'm from São Paulo - SP, Brazil.<br><br>Student of English language intermediary level.<br><br>God bless my way <br>
+Hello, I'm a student of science computing. <br>I am studying in the fourth semester at the Anhanguera institution.<br><br>A lover of Technology and programming, ever in search of new knowledge<br>I'm from São Paulo - SP, Brazil.<br><br>Student of English language intermediary level.<br><br>God bless my way 🙏🏽 <br>
 
 
 ## 🌐 Socials:
