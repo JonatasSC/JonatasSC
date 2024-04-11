@@ -20,8 +20,9 @@ Hello, I'm a student of science computing. <br>I am studying in the fiver semest
 ## 📚 Education
 ![DuoLingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 
+
 #📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=dracula&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSC&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
