@@ -30,6 +30,5 @@ Hello, I'm a student of science computing. <br>I am studying at the Anhanguera i
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=dracula&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSC&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={JonatasSC}&theme=blue-green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
