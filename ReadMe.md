@@ -13,7 +13,7 @@ Hello, I'm a student of science computing. <br>I am studying at the Anhanguera i
 [![My DataBase Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql)](https://skillicons.dev)
 
 ## 💻 OS
-[![My DataBase Skills](https://skillicons.dev/icons?i=windows,linux,arch)](https://skillicons.dev)
+[![My DataBase Skills](https://skillicons.dev/icons?i=windows,arch)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=dracula&hide_border=false)<br>
