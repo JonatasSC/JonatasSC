@@ -3,29 +3,18 @@ Hello, I'm a student of science computing. <br>I am studying at the Anhanguera i
 
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhowatassc) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jhowatassc) 
+
 
 ## 🚀 Skills:
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,nestjs,nextjs,react,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)]
 
 ## Data Bases:
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
+[![My DataBase Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql)](https://skillicons.dev)
 
 ## 💻 OS
-![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
-![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## 📚 Education
-[![DuoLingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/VeltSH)
-
+[![My DataBase Skills](https://skillicons.dev/icons?i=windows,linux,arch)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=dracula&hide_border=false)<br>
