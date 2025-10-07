@@ -19,7 +19,7 @@ Hello, I'm a student of science computing. <br>I am studying at the Anhanguera i
   <summary>Github Stats ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true_height=20)</a>
 </details>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
