@@ -1,5 +1,5 @@
 # 🙇🏽‍♂️ About Me:
-Hello, I'm a student of science computing. <br>I am studying at the Anhanguera institution.<br><br>A lover of Technology and programming, ever in search of new knowledge, actualy studing NestJS.<br>I'm from São Paulo - SP, Brazil.<br><br>Student of English language beginer level.<br><br>God bless my way 🙏🏽 <br>
+Hello, I'm a student of science computing. <br>I am studying at the Anhanguera institution.<br><br>A lover of Technology and programming, ever in search of new knowledge, actually studying NestJS.<br>I'm from São Paulo - SP, Brazil.<br><br>Student of English language beginner level.<br><br>God bless my way 🙏🏽 <br>
 
 
 ## 🌐 Social:
@@ -7,13 +7,13 @@ Hello, I'm a student of science computing. <br>I am studying at the Anhanguera i
 
 
 ## 🚀 Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nestjs,nextjs,react,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,tailwind,nodejs,nestjs,nextjs,react,express,cypress&linux,bash,aws,postman,docker,grafana)](https://skillicons.dev)
 
-## Data Bases:
+## Databases:
 [![My DataBase Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql)](https://skillicons.dev)
 
 ## 💻 OS
-[![My DataBase Skills](https://skillicons.dev/icons?i=windows,arch)](https://skillicons.dev)
+[![My DataBase Skills](https://skillicons.dev/icons?i=debian,arch)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=dracula&hide_border=false)<br>
