@@ -7,8 +7,7 @@ Hello, I'm a student of science computing. <br>I am studying at the Anhanguera i
 
 
 ## 🚀 Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,tailwind,nodejs,nestjs,nextjs,react,express,cypress)](https://skillicons.dev)
-[![My Skills 2](https://skillicons.dev/icons?i=linux,bash,aws,postman,docker,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,tailwind,nodejs,nestjs,nextjs,react,express,cypresslinux,bash,aws,postman,docker,grafana&perline=10)](https://skillicons.dev)
 
 ## Databases:
 [![My DataBase Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql)](https://skillicons.dev)
