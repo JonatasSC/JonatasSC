@@ -15,8 +15,11 @@ Hello, I'm a student of science computing. <br>I am studying at the Anhanguera i
 ## 💻 OS
 [![My DataBase Skills](https://skillicons.dev/icons?i=debian,arch)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=dracula&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSC&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
