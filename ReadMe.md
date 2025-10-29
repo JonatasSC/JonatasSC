@@ -1,5 +1,5 @@
 # 🙇🏽‍♂️ About Me:
-Hello, I'm a student of science computing. <br>I am studying at the Anhanguera institution.<br><br>A lover of Technology and programming, ever in search of new knowledge, actually studying NestJS.<br>I'm from São Paulo - SP, Brazil.<br><br>Student of English language beginner level.<br><br>God bless my way 🙏🏽 <br>
+Hello, I'm a student of science computing. <br>I am studying at the Anhanguera institution.<br><br>A lover of Technology and programming, ever in search of new knowledge, actually studying NestJS.<br>I'm from São Paulo - SP, Brazil.<br><br>Student of the English language at beginner level.<br><br>God bless my way 🙏🏽 <br>
 
 
 ## 🌐 Social:
