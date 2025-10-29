@@ -17,5 +17,4 @@ Hello, I'm a student of science computing. <br>I am studying at the Anhanguera i
 
 ## Github Stats ⚡
 ![JonatasSC's Stats](https://github-readme-stats.vercel.app/api?username=JonatasSC&theme=blueberry&show_icons=true&hide_border=true&count_private=true) <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JonatasSC&theme=blueberry&hide_border=true&short_numbers=true)](https://git.io/streak-stats) <br>
 ![JonatasSC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSC&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
