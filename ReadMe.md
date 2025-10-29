@@ -15,11 +15,7 @@ Hello, I'm a student of science computing. <br>I am studying at the Anhanguera i
 ## 💻 OS
 [![My DataBase Skills](https://skillicons.dev/icons?i=debian,arch)](https://skillicons.dev)
 
-<details>
-  <summary>Github Stats ⚡</summary>
-    ![JonatasSC's Stats](https://github-readme-stats.vercel.app/api?username=JonatasSC&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-    ![JonatasSC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=blueberry&hide_border=true)
-    ![JonatasSC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSC&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-</details>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Github Stats ⚡
+![JonatasSC's Stats](https://github-readme-stats.vercel.app/api?username=JonatasSC&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![JonatasSC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=blueberry&hide_border=true)
+![JonatasSC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSC&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
