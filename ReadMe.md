@@ -16,6 +16,6 @@ Hello, I'm a student of science computing. <br>I am studying at the Anhanguera i
 [![My DataBase Skills](https://skillicons.dev/icons?i=debian,arch)](https://skillicons.dev)
 
 ## Github Stats ⚡
-![JonatasSC's Stats](https://github-readme-stats.vercel.app/api?username=JonatasSC&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-![JonatasSC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=blueberry&hide_border=true)
+![JonatasSC's Stats](https://github-readme-stats.vercel.app/api?username=JonatasSC&theme=blueberry&show_icons=true&hide_border=true&count_private=true) <br>
+![JonatasSC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonatasSC&theme=blueberry&hide_border=true) <br>
 ![JonatasSC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSC&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
